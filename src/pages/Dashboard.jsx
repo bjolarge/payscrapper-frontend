@@ -1,3 +1,4 @@
+"use client"
 import { EditIcon, ViewIcon } from "@chakra-ui/icons"
 import { 
   Box, 

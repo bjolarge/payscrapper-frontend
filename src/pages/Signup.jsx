@@ -73,7 +73,7 @@ export default function Signup() {
                 </FormControl>
                
                 <Button type="submit" colorScheme="green" w="full">
-                  Register
+                  Register Now
                 </Button>
               </VStack>
             </form>

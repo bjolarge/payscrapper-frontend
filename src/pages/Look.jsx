@@ -81,7 +81,7 @@ import React from 'react'
 
 const Look = () => {
   return (
-    <div>Looking up </div>
+    <div>Looking up now </div>
   )
 }
 

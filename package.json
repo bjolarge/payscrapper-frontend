@@ -1,7 +1,7 @@
 {
   "name": "Joseph Bello PayScapper",
   "private": true,
-  "homepage":"https://bjolarge.github.io",
+  "homepage":"https://bjolarge.github.io/payscrapper-frontend ",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

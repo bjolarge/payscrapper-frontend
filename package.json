@@ -1,13 +1,13 @@
 {
   "name": "Joseph Bello PayScapper",
   "private": true,
-  "homepage":"https://bjolarge.github.io/payscrapper-frontend ",
+  "homepage": "https://bjolarge.github.io/payscrapper-frontend ",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy" : "npm run build",
-"deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -27,7 +27,8 @@
     "react-dom": "^18.2.0",
     "react-query": "^3.39.3",
     "react-router-dom": "^6.6.1",
-    "react-table": "^7.8.0"
+    "react-table": "^7.8.0",
+    "vercel": "^32.5.3"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
